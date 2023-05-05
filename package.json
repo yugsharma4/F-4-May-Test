@@ -1,12 +1,12 @@
 {
   "name": "module-test-f4-05-05-2023",
-  "homepage": "/Acciojob_Module_Test_F4_05.05.2023/#",
+  "homepage": "/F-4-May-Test/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "PUBLIC_URL=https://https://yugsharma4.github.io/F-4-May-Test/ react-scripts build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
