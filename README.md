@@ -1,5 +1,4 @@
-# Acciojob_Module_Test_F4_05.05.2023
-- Deployed Link: https://shubham-lolusare.github.io/Acciojob_Module_Test_F4_05.05.2023/
+
 
 # Task
 - To execute dummy authentication using api given at https://dummyjson.com/docs/auth
